@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\supercard\\Desktop\\0617\\PullToRefreshLoadData\\pullToRefreshLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "C:\\Users\\supercard\\Desktop\\0617\\PullToRefreshLoadData\\pullToRefreshLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\supercard\\Desktop\\0617\\PullToRefreshLoadData\\pullToRefreshLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "C:\\Users\\supercard\\Desktop\\0617\\PullToRefreshLoadData\\pullToRefreshLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\supercard\\Desktop\\0617\\PullToRefreshLoadData\\pullToRefreshLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\refresh_animation.xml",
+        "source": "C:\\Users\\supercard\\Desktop\\0617\\PullToRefreshLoadData\\pullToRefreshLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\refresh_animation.xml"
+    }
+]

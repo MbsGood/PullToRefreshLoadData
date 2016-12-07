@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:drawable="@drawable/refresh_image1" android:duration="100" />  
+    <item android:drawable="@drawable/refresh_image2" android:duration="100" />  
+    <item android:drawable="@drawable/refresh_image3" android:duration="100" />
+    <item android:drawable="@drawable/refresh_image4" android:duration="100" />
+    <item android:drawable="@drawable/refresh_image5" android:duration="100" />
+    <item android:drawable="@drawable/refresh_image6" android:duration="100" />
+    <item android:drawable="@drawable/refresh_image7" android:duration="100" />
+</animation-list>

@@ -1,0 +1,273 @@
+[
+    {
+        "outputFile": "C:\\Users\\supercard\\Desktop\\0617\\PullToRefreshLoadData\\pullToRefreshLib\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2081,
+                    "endColumn": 63,
+                    "endOffset": 2140
+                },
+                "from": {
+                    "file": "C:\\Users\\supercard\\Desktop\\0617\\PullToRefreshLoadData\\pullToRefreshLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 2081,
+                        "endColumn": 63,
+                        "endOffset": 2140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2145,
+                    "endColumn": 63,
+                    "endOffset": 2204
+                },
+                "from": {
+                    "file": "C:\\Users\\supercard\\Desktop\\0617\\PullToRefreshLoadData\\pullToRefreshLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2145,
+                        "endColumn": 63,
+                        "endOffset": 2204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2209,
+                    "endColumn": 54,
+                    "endOffset": 2259
+                },
+                "from": {
+                    "file": "C:\\Users\\supercard\\Desktop\\0617\\PullToRefreshLoadData\\pullToRefreshLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2209,
+                        "endColumn": 54,
+                        "endOffset": 2259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2264,
+                    "endColumn": 56,
+                    "endOffset": 2316
+                },
+                "from": {
+                    "file": "C:\\Users\\supercard\\Desktop\\0617\\PullToRefreshLoadData\\pullToRefreshLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2264,
+                        "endColumn": 56,
+                        "endOffset": 2316
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2321,
+                    "endColumn": 54,
+                    "endOffset": 2371
+                },
+                "from": {
+                    "file": "C:\\Users\\supercard\\Desktop\\0617\\PullToRefreshLoadData\\pullToRefreshLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2321,
+                        "endColumn": 54,
+                        "endOffset": 2371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2376,
+                    "endColumn": 37,
+                    "endOffset": 2409
+                },
+                "from": {
+                    "file": "C:\\Users\\supercard\\Desktop\\0617\\PullToRefreshLoadData\\pullToRefreshLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2376,
+                        "endColumn": 37,
+                        "endOffset": 2409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2414,
+                    "endColumn": 39,
+                    "endOffset": 2449
+                },
+                "from": {
+                    "file": "C:\\Users\\supercard\\Desktop\\0617\\PullToRefreshLoadData\\pullToRefreshLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 2414,
+                        "endColumn": 39,
+                        "endOffset": 2449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2454,
+                    "endColumn": 36,
+                    "endOffset": 2486
+                },
+                "from": {
+                    "file": "C:\\Users\\supercard\\Desktop\\0617\\PullToRefreshLoadData\\pullToRefreshLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2454,
+                        "endColumn": 36,
+                        "endOffset": 2486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2491,
+                    "endColumn": 101,
+                    "endOffset": 2588
+                },
+                "from": {
+                    "file": "C:\\Users\\supercard\\Desktop\\0617\\PullToRefreshLoadData\\pullToRefreshLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2491,
+                        "endColumn": 101,
+                        "endOffset": 2588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2593,
+                    "endColumn": 113,
+                    "endOffset": 2702
+                },
+                "from": {
+                    "file": "C:\\Users\\supercard\\Desktop\\0617\\PullToRefreshLoadData\\pullToRefreshLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2593,
+                        "endColumn": 113,
+                        "endOffset": 2702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2707,
+                    "endColumn": 107,
+                    "endOffset": 2810
+                },
+                "from": {
+                    "file": "C:\\Users\\supercard\\Desktop\\0617\\PullToRefreshLoadData\\pullToRefreshLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2707,
+                        "endColumn": 107,
+                        "endOffset": 2810
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2815,
+                    "endColumn": 71,
+                    "endOffset": 2882
+                },
+                "from": {
+                    "file": "C:\\Users\\supercard\\Desktop\\0617\\PullToRefreshLoadData\\pullToRefreshLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2815,
+                        "endColumn": 71,
+                        "endOffset": 2882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2887,
+                    "endColumn": 69,
+                    "endOffset": 2952
+                },
+                "from": {
+                    "file": "C:\\Users\\supercard\\Desktop\\0617\\PullToRefreshLoadData\\pullToRefreshLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2887,
+                        "endColumn": 69,
+                        "endOffset": 2952
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2957,
+                    "endColumn": 77,
+                    "endOffset": 3030
+                },
+                "from": {
+                    "file": "C:\\Users\\supercard\\Desktop\\0617\\PullToRefreshLoadData\\pullToRefreshLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2957,
+                        "endColumn": 77,
+                        "endOffset": 3030
+                    }
+                }
+            }
+        ]
+    }
+]
